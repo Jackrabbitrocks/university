@@ -1,0 +1,7 @@
+.background, .big_moon, .small_moon {
+	position: fixed;
+}
+
+.background {
+	width: 100%;
+}
