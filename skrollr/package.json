@@ -2,27 +2,21 @@
   "name": "skrollr-test",
   "title": "skrollr-test",
   "description": "Initial testing of skrollr to see if it is something I want to use.",
-  "version": ".1",
-  "homepage": "https://github.com/Prinzhorn/skrollr",
+  "version": "1.0.0",
+  "homepage": "http://www.jackrabbitrocks.com",
   "author": {
-    "name": "Alexander Prinzhorn",
-    "email": "alexander@prinzhorn.it",
-    "url": "http://www.prinzhorn.it/"
+    "name": "jackrabbit",
+    "email": "jackrabbitrocks@gmail.com",
+    "url": "http://www.jackrabbitrocks.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Prinzhorn/skrollr.git"
+    "url": "https://github.com/Jackrabbitrocks/university.git"
   },
   "bugs": {
-    "url": "https://github.com/Prinzhorn/skrollr/issues"
+    "url": "https://github.com/Jackrabbitrocks/university/skrollr/issues"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/Prinzhorn/skrollr/blob/master/LICENSE.txt"
-    }
-  ],
-  "main": "dist/skrollr.min.js",
+  "main": "js/main.min.js",
   "engines": {
     "node": "0.10.x"
   },
